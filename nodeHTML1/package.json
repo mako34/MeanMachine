@@ -1,0 +1,11 @@
+{
+  "name": "nodeHTML1",
+  "version": "1.0.0",
+  "description": "my firsto servo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mk tkt ss9",
+  "license": "ISC"
+}
